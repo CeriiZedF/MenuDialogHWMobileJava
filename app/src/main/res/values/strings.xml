@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MenuDialogHWMobileJava</string>
+    <string name="edit_text">Редагувати текст</string>
+    <string name="selectText">Обрати текст</string>
+    <string name="get_local_time">Отримати поточний час</string>
+    <string name="edit_time">Змінити дату</string>
+    <string name="call_message">Виклик сповіщення</string>
+    <string name="checkbox1">jashkajkdajks</string>
+    <string name="checkbox2">12361864868746</string>
+    <string name="checkbox3">SDFJSJDFHSKDFJ</string>
+    <string name="edit_date">Змінити дату</string>
+</resources>
